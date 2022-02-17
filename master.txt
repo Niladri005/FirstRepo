@@ -1,1 +1,3 @@
-My first git 
+My first git file
+
+making some more changes into it
